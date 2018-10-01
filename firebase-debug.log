@@ -1,0 +1,36 @@
+[debug] [2018-10-01T09:51:58.105Z] ----------------------------------------------------------------------
+[debug] [2018-10-01T09:51:58.107Z] Command:       /usr/bin/node /usr/bin/firebase deploy
+[debug] [2018-10-01T09:51:58.108Z] CLI Version:   3.18.4
+[debug] [2018-10-01T09:51:58.108Z] Platform:      linux
+[debug] [2018-10-01T09:51:58.108Z] Node Version:  v6.14.3
+[debug] [2018-10-01T09:51:58.108Z] Time:          Mon Oct 01 2018 10:51:58 GMT+0100 (BST)
+[debug] [2018-10-01T09:51:58.108Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2018-10-01T09:51:58.124Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2018-10-01T09:51:58.124Z] > authorizing via signed-in user
+[debug] [2018-10-01T09:51:58.128Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/trove-e5920  
+  
+ Mon Oct 01 2018 10:51:58 GMT+0100 (BST)
+[debug] [2018-10-01T09:51:59.058Z] <<< HTTP RESPONSE 200
+[debug] [2018-10-01T09:51:59.060Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/trove-e5920/tokens  
+  
+ Mon Oct 01 2018 10:51:59 GMT+0100 (BST)
+[debug] [2018-10-01T09:52:00.048Z] <<< HTTP RESPONSE 200
+[debug] [2018-10-01T09:54:00.402Z] ----------------------------------------------------------------------
+[debug] [2018-10-01T09:54:00.405Z] Command:       /usr/bin/node /usr/bin/firebase deploy --debug
+[debug] [2018-10-01T09:54:00.406Z] CLI Version:   3.18.4
+[debug] [2018-10-01T09:54:00.406Z] Platform:      linux
+[debug] [2018-10-01T09:54:00.406Z] Node Version:  v6.14.3
+[debug] [2018-10-01T09:54:00.407Z] Time:          Mon Oct 01 2018 10:54:00 GMT+0100 (BST)
+[debug] [2018-10-01T09:54:00.407Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2018-10-01T09:54:00.416Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2018-10-01T09:54:00.416Z] > authorizing via signed-in user
+[debug] [2018-10-01T09:54:00.419Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/trove-e5920  
+  
+ Mon Oct 01 2018 10:54:00 GMT+0100 (BST)
+[debug] [2018-10-01T09:54:01.300Z] <<< HTTP RESPONSE 200
+[debug] [2018-10-01T09:54:01.302Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/trove-e5920/tokens  
+  
+ Mon Oct 01 2018 10:54:01 GMT+0100 (BST)
+[debug] [2018-10-01T09:54:02.234Z] <<< HTTP RESPONSE 200
